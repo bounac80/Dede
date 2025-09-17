@@ -5,3 +5,4 @@ joblib
 scikit-learn
 plotly.express
 streamlit_ketcher
+python=3.8
